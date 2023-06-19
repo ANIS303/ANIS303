@@ -1,5 +1,5 @@
 <h3 align="center">A junior frontend developer from egypt Learn JavaScript</h3>
-<p align="center"> experience less than 6 months</p>
+<p align="center"> experience less than year</p>
 <p align="center"> Learn JavaScript, React Framework,context, and JQuery</p>
 <h3 align="left">Connect with me:</h3>
 <br>
